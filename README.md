@@ -1,5 +1,5 @@
 # MatplotlibHW5
 Matplotlib Homework - The Power of Plots
 
-Identified Duplicate Mouse ID ; Need to drop - wrking
+1st Section Complete -- Merged datasets; cleaned(I hope); moving to Summary Stats
 
